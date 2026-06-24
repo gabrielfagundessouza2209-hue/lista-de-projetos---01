@@ -1,0 +1,24 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\bin\Debug\atividade 1.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\bin\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\bin\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\obj\Debug\atividade_1.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\projeto 1\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\bin\Debug\atividade 1.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\bin\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\bin\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\obj\Debug\atividade_1.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\atividade\atividade 1\atividade 1\obj\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\bin\Debug\atividade 1.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\bin\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\bin\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\obj\Debug\atividade 1.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\obj\Debug\atividade_1.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\obj\Debug\atividade 1.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\obj\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\atividade 1\atividade 1\obj\Debug\atividade 1.pdb
