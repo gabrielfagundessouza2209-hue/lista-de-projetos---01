@@ -1,0 +1,16 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\bin\Debug\ATIVIDADE 3.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\bin\Debug\ATIVIDADE 3.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\bin\Debug\ATIVIDADE 3.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE_3.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\bin\Debug\ATIVIDADE 3.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\bin\Debug\ATIVIDADE 3.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\bin\Debug\ATIVIDADE 3.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE_3.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE 3\ATIVIDADE 3\obj\Debug\ATIVIDADE 3.pdb
