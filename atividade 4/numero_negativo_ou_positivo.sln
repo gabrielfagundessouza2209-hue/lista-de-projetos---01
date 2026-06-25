@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.2
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numero_negativo_ou_positivo", "numero_negativo_ou_positivo\numero_negativo_ou_positivo.csproj", "{1F59A465-1E67-441B-A0B8-313AA5BB39CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F59A465-1E67-441B-A0B8-313AA5BB39CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F59A465-1E67-441B-A0B8-313AA5BB39CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F59A465-1E67-441B-A0B8-313AA5BB39CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F59A465-1E67-441B-A0B8-313AA5BB39CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

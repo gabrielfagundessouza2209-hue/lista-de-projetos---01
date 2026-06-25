@@ -1,0 +1,16 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\bin\Debug\numero_negativo_ou_positivo.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\bin\Debug\numero_negativo_ou_positivo.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\bin\Debug\numero_negativo_ou_positivo.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numero_negativo_ou_positivo\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\bin\Debug\numero_negativo_ou_positivo.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\bin\Debug\numero_negativo_ou_positivo.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\bin\Debug\numero_negativo_ou_positivo.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros maiores que 20\numero_negativo_ou_positivo\obj\Debug\numero_negativo_ou_positivo.pdb
