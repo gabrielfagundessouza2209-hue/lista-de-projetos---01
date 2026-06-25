@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\obj\Debug\atv 19.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\obj\Debug\atv_19.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\obj\Debug\atv 19.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\bin\Debug\atv 19.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\bin\Debug\atv 19.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\bin\Debug\atv 19.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\obj\Debug\atv 19.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 19\atv 19\obj\Debug\atv 19.pdb
