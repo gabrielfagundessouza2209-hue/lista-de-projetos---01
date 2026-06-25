@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\bin\Debug\numeros_ negativos_ou_positivos.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\bin\Debug\numeros_ negativos_ou_positivos.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\bin\Debug\numeros_ negativos_ou_positivos.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\obj\Debug\numeros_ negativos_ou_positivos.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\obj\Debug\numeros__negativos_ou_positivos.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\obj\Debug\numeros_ negativos_ou_positivos.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\obj\Debug\numeros_ negativos_ou_positivos.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\numeros_ negativos_ou_positivos\numeros_ negativos_ou_positivos\obj\Debug\numeros_ negativos_ou_positivos.pdb
