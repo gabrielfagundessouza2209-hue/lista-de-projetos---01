@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\obj\Debug\atv 16.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\obj\Debug\atv_16.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\obj\Debug\atv 16.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\bin\Debug\atv 16.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\bin\Debug\atv 16.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\bin\Debug\atv 16.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\obj\Debug\atv 16.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atv 16\atv 16\obj\Debug\atv 16.pdb
