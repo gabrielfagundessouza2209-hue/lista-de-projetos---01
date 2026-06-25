@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\bin\Debug\atividade 12.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\bin\Debug\atividade 12.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\bin\Debug\atividade 12.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\obj\Debug\atividade 12.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\obj\Debug\atividade_12.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\obj\Debug\atividade 12.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\obj\Debug\atividade 12.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\git hub\atividades para postar no git hub\atividade 13\atividade 12\obj\Debug\atividade 12.pdb
