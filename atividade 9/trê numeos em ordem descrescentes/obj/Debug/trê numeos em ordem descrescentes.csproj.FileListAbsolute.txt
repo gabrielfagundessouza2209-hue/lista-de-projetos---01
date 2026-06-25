@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\obj\Debug\trê numeos em ordem descrescentes.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\obj\Debug\trê_numeos_em_ordem_descrescentes.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\obj\Debug\trê numeos em ordem descrescentes.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\bin\Debug\trê numeos em ordem descrescentes.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\bin\Debug\trê numeos em ordem descrescentes.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\bin\Debug\trê numeos em ordem descrescentes.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\obj\Debug\trê numeos em ordem descrescentes.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\trê numeos em ordem descrescentes\trê numeos em ordem descrescentes\obj\Debug\trê numeos em ordem descrescentes.pdb
