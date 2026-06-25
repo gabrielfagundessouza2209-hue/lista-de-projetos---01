@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\obj\Debug\divisibilidade 2 -5 -10.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\obj\Debug\divisibilidade_2__5__10.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\obj\Debug\divisibilidade 2 -5 -10.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\bin\Debug\divisibilidade 2 -5 -10.exe.config
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\bin\Debug\divisibilidade 2 -5 -10.exe
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\bin\Debug\divisibilidade 2 -5 -10.pdb
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\obj\Debug\divisibilidade 2 -5 -10.exe
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\divisibilidade 2 -5 -10\divisibilidade 2 -5 -10\obj\Debug\divisibilidade 2 -5 -10.pdb
