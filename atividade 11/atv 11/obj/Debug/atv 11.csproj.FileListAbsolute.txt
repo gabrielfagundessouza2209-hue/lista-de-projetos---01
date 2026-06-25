@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\obj\Debug\atv 11.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\obj\Debug\atv_11.MainForm.resources
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\obj\Debug\atv 11.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\bin\Debug\atv 11.exe.config
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\bin\Debug\atv 11.exe
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\bin\Debug\atv 11.pdb
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\obj\Debug\atv 11.exe
+C:\Users\Gabriel\Desktop\projetos\atv 11\atv 11\obj\Debug\atv 11.pdb
