@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\bin\Debug\atividade 21.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\bin\Debug\atividade 21.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\bin\Debug\atividade 21.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\obj\Debug\atividade 21.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\obj\Debug\atividade_21.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\obj\Debug\atividade 21.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\obj\Debug\atividade 21.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\projetos - 01\atividade 21\atividade 21\obj\Debug\atividade 21.pdb
