@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\obj\Debug\maior valor entrev3 numeros.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\obj\Debug\maior_valor_entrev3_numeros.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\obj\Debug\maior valor entrev3 numeros.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\bin\Debug\maior valor entrev3 numeros.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\bin\Debug\maior valor entrev3 numeros.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\bin\Debug\maior valor entrev3 numeros.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\obj\Debug\maior valor entrev3 numeros.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\maior valor entrev3 numeros\maior valor entrev3 numeros\obj\Debug\maior valor entrev3 numeros.pdb
