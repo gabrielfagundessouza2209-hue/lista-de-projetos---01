@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.2
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisibilidade_por_3_ e por_ 7", "Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7.csproj", "{EE37B114-ED79-4371-9929-D0E7273E83D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE37B114-ED79-4371-9929-D0E7273E83D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE37B114-ED79-4371-9929-D0E7273E83D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE37B114-ED79-4371-9929-D0E7273E83D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE37B114-ED79-4371-9929-D0E7273E83D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

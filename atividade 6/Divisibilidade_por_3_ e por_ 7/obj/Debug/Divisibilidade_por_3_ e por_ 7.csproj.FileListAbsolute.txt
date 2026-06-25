@@ -1,0 +1,8 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\obj\Debug\Divisibilidade_por_3_ e por_ 7.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\obj\Debug\Divisibilidade_por_3__e_por__7.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\obj\Debug\Divisibilidade_por_3_ e por_ 7.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\bin\Debug\Divisibilidade_por_3_ e por_ 7.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\bin\Debug\Divisibilidade_por_3_ e por_ 7.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\bin\Debug\Divisibilidade_por_3_ e por_ 7.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\obj\Debug\Divisibilidade_por_3_ e por_ 7.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\Projetos\Divisibilidade_por_3_ e por_ 7\Divisibilidade_por_3_ e por_ 7\obj\Debug\Divisibilidade_por_3_ e por_ 7.pdb
